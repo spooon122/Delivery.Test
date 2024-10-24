@@ -1,6 +1,1 @@
 @Delivery.Test_HostAddress = http://localhost:5057
-
-GET {{Delivery.Test_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
